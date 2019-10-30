@@ -5,5 +5,6 @@ class Anagram
   
   def Anagram
     Anagram.split(/, | /).uniq
+  end
  end 
 end
